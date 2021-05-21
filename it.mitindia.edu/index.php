@@ -7,7 +7,7 @@
     <!--<![endif]-->
     <head>
         <!-- Title -->
-        <title>Department Of Information Technology  - MIT</title>
+        <title>Department Of Information Technology - MIT</title>
         <!-- Meta -->
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="Department of Information Technology , Madras Institue Of Technology ,Anna University">
