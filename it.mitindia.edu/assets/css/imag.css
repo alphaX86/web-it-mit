@@ -1,0 +1,35 @@
+
+.i1
+{
+   float:left;
+   margin-left: 105px;
+
+}
+.i2{
+	float:right;
+	margin-right: 105px;
+}
+.i3
+{
+   float:left;
+   margin-left: 105px;
+   margin-top: 25px;
+
+}
+.i4{
+	float:right;
+	margin-right: 105px;
+margin-top: 25px;
+}
+.i5
+{
+   float:left;
+   margin-left: 105px;
+   margin-top: 25px;
+
+}
+.i6{
+	float:right;
+	margin-right: 105px;
+	margin-top: 25px;
+}

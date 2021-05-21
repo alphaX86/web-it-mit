@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Allow: /
+
+Sitemap: http://it.mitindia.edu/sitemaps/sitemap.xml

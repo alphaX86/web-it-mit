@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^/faculty/([a-zA-Z0-9]+)/$ /faculty_details/index.php?id=$1

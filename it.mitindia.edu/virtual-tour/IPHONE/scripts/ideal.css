@@ -1,0 +1,142 @@
+#main {
+	background:#fff; 
+	padding-bottom:30px;
+	 position:relative; 
+	text-align:center;
+	float:center;
+}
+
+.container {
+	width:768px;
+	margin:0 auto;
+	position:relative;
+	text-align:center;
+	float:center;
+	background:#fff; 
+	
+}
+
+
+.df {
+	FONT-SIZE: 9px; COLOR: #cccccc; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.border {
+	BORDER-RIGHT: #724830 1px solid; BORDER-TOP: #724830 1px solid; BORDER-LEFT: #724830 1px solid; BORDER-BOTTOM: #724830 1px solid
+}
+A.df:hover {
+	FONT-SIZE: 11px; COLOR: #ffcccc; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.mbody1 {
+	FONT-SIZE: 11px; COLOR: #00509f; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.bblack {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #002448; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.mbody2bl {
+	FONT-SIZE: 11px; COLOR: #333333; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana
+}
+.cohea {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #1b3d56; FONT-FAMILY: Tahoma
+}
+.contblac10 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 11px; COLOR: #002448; PADDING-TOP: 5px; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.touris {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 11px; COLOR: #003955; LINE-HEIGHT: 16px; PADDING-TOP: 5px; FONT-FAMILY: Verdana
+}
+.next {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A.next:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.next2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.timage {
+	MARGIN-TOP: 5px
+}
+.mabout {
+	FONT-SIZE: 11px; COLOR: #002448; LINE-HEIGHT: 16px; PADDING-TOP: 3px; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.t3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #00366c; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.t3:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.mrrom {
+	PADDING-RIGHT: 10px; FONT-SIZE: 11px; COLOR: #002448; LINE-HEIGHT: 16px; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.mrromh {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.mroom2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.t1wh {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #f5f5f5; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.t2rom {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #790000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.tblack {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.mfac {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.mfac:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.mfac2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.hea1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #006600; FONT-FAMILY: Verdana
+}
+.c1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #800000; FONT-FAMILY: Verdana
+}
+.c2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #2f2f5e; FONT-FAMILY: Verdana
+}
+.c3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #005500; FONT-FAMILY: Verdana
+}
+.feedbackb {
+	BORDER-RIGHT: #3c2d0f 1px solid; BORDER-TOP: #3c2d0f 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #3c2d0f 1px solid; COLOR: #333333; BORDER-BOTTOM: #3c2d0f 1px solid; FONT-FAMILY: Verdana
+}
+.f1 {
+	FONT-SIZE: 10px; COLOR: #990000; FONT-FAMILY: Verdana
+}
+.tours {
+	PADDING-LEFT: 10px; FONT-SIZE: 11px; MARGIN-BOTTOM: 15px; COLOR: #000000; LINE-HEIGHT: 16px; PADDING-TOP: 5px; FONT-FAMILY: Verdana
+}
+.tran1h {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #002851; FONT-FAMILY: Verdana
+}
+.tranh2 {
+	PADDING-RIGHT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana
+}
+.tourswt {
+	FONT-SIZE: 11px; MARGIN-BOTTOM: 15px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: Verdana
+}
+.tourh2 {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN-BOTTOM: 15px; PADDING-BOTTOM: 10px; COLOR: #333333; FONT-FAMILY: Verdana
+}
+.reser {
+	FONT-SIZE: 11px; MARGIN-BOTTOM: 20px; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.reservation {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #2d2d5b; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.know {
+	FONT-SIZE: 10px; COLOR: #00274f; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.know:hover {
+	FONT-SIZE: 10px; COLOR: #990000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.sidef {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 11px; COLOR: #284472; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
