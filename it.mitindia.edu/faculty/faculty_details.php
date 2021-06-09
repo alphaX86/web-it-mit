@@ -1,10 +1,10 @@
 <?php
 
-    $con = new mysqli("localhost","root","","staff");
+    include '../includes/dbconnect.php';
     $inputID = $_GET['id'];
     $sql = "SELECT * FROM data WHERE fid='$inputID'";
 
-    if ($result = $con -> query($sql)) {
+    if ($result = $conn -> query($sql)) {
         $row = $result -> fetch_assoc();
     }
 
