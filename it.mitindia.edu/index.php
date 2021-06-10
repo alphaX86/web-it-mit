@@ -97,15 +97,6 @@ include 'includes/tracking.php';
 
 
 
-            <!-- Marquee bar here -->
-            <div class="container no-padding border-bottom-shadow">
-                <div class="row">
-                    <marquee direction="left" scrollamount="7" height = "30px">
-                        <!-- For now, each news lines must be present in sequence with spaces required -->
-                        This is a sample text. NEED TO BE UPDATED!
-                    </marquee>
-                </div>
-            </div>
 
 
 
