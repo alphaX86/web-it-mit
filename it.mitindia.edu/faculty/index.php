@@ -118,11 +118,11 @@ include '../includes/tracking.php';
                                         </li>
                                         <li>
                                             <a href="#sample-3b" data-toggle="tab">
-                                                <i class="fa fa-users"></i>&nbsp;Non - Teaching Staff</a>
+                                                <i class="fa fa-users"></i>&nbsp;Technical Staff</a>
                                         </li>
 <li>
                                             <a href="#sample-3c" data-toggle="tab">
-                                                <i class="fa fa-users"></i>&nbsp;Office Staff</a>
+                                                <i class="fa fa-users"></i>&nbsp;Non-Teaching Staff</a>
                                         </li>
 <li>
                                             <a href="#sample-3d" data-toggle="tab">
@@ -181,7 +181,7 @@ include '../includes/tracking.php';
 </div>
                                         <div class="tab-pane fade in" id="sample-3b">
                                           
-                                            <h2 style="color:#00695c; font-size:25pt;">Non-Teaching Staff</h2>
+                                            <h2 style="color:#00695c; font-size:25pt;">Technical Staff</h2>
                                             <div class="scrollable table-responsive">
                             <table class="table table-striped">
                                 <thead>
@@ -259,7 +259,7 @@ Worked in  ICRTIT2016</td>
 </div>
 <div class="tab-pane fade in" id="sample-3c">
                                           
-                                            <h2 style="color:#00695c; font-size:25pt;">Office Staff</h2>
+                                            <h2 style="color:#00695c; font-size:25pt;">Non-Teaching Staff</h2>
                                             <div class="scrollable table-responsive">
                             <table class="table table-striped">
                                 <thead>
