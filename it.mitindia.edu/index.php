@@ -183,16 +183,16 @@ include 'includes/tracking.php';
                         <!-- End Main Text -->
                         <div class="col-md-6">
                             <h3 class="padding-vert-10" style="color:#00695c; font-size:20pt;"><b>VISION</b></h3>
-                            <p align="justify" style="color:#212121; font-size:12pt;">To educate students with conceptual knowledge and technical skills in the field of Information Technology with moral and ethical values to achieve excellence in an academic, industry and research centric environment.</p>
+                            <p align="justify" style="color:#212121; font-size:12pt;">To educate students with conceptual knowledge and technical skills in the field of Information Technology with moral and ethical values to achieve excellence in an academic, industry and research centric environment. </p>
                             <h3 class="padding-vert-10" style="color:#00695c; font-size:20pt;"><b>MISSION</b></h3>
                            
                             <ul class="animate fadeInRight" style="color:#212121; font-size:12pt;">
-                                <li> To inculcate in students a firm foundation in theory and practice of IT skills coupled with the thought process for disruptive innovation and research methodologies, to keep pace with emerging technologies.</li>
-                                <li> To provide a conducive environment for all academic, administrative, and interdisciplinary research activities using state-of-the-art technologies.</li>
-                                <li> To stimulate the growth of graduates and doctorates, who will enter the workforce as productive IT engineers, researchers, and entrepreneurs with necessary soft skills, and continue higher professional education with competence in the global market..</li>
-                                <li> To enable seamless collaboration with the IT industry and Government for consultancy and sponsored research.</li>
-                                <li> To cater to cross-cultural, multinational, and demographic diversity of students.</li>
-                                <li> To educate the students on the social, ethical, and moral values needed to make significant contributions to society.</li>
+                                <li> To inculcate in students a firm foundation in theory and practice of IT skills coupled with the thought process for disruptive innovation and research methodologies, to keep pace with emerging technologies. </li>
+                                <li> To provide a conducive environment for all academic, administrative, and interdisciplinary research activities using state-of-the-art technologies. </li>
+                                <li> To stimulate the growth of graduates and doctorates, who will enter the workforce as productive IT engineers, researchers, and entrepreneurs with necessary soft skills, and continue higher professional education with competence in the global market. </li>
+                                <li> To enable seamless collaboration with the IT industry and Government for consultancy and sponsored research. </li>
+                                <li> To cater to cross-cultural, multinational, and demographic diversity of students. </li>
+                                <li> To educate the students on the social, ethical, and moral values needed to make significant contributions to society. </li>
                             </ul><br><br>
                            
                             <p><a href="assets/pdf/PEO.pdf" target="_blank"style="font-size:12pt;">PROGRAMME EDUCATIONAL OBJECTIVES</a> </p>
