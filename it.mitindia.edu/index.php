@@ -149,17 +149,22 @@ include 'includes/tracking.php';
                 <div class="container background-grey bottom-border">
                     <div class="row padding-vert-60">
                         <!-- Icons -->
-                        <div class="col-md-4 text-center">
+                        <div class="col-md-3 text-center">
                             <a href="virtual-tour/"><i class="fa-picture-o fa-4x color-primary animate fadeIn"></i></a>
                             <h2 class="padding-top-10 animate fadeIn"><a href="virtual-tour/">Virtual tour</a></h2>
                             <p class="animate fadeIn">Check out our 360 Degree Virtual Reality Tours</p>
                         </div>
-                        <div class="col-md-4 text-center">
+                        <div class="col-md-3 text-center">
                             <a href="ita/"><i class="fa-users fa-4x color-primary animate fadeIn"></i></a>
                             <h2 class="padding-top-10 animate fadeIn"><a href="ita/">IT Association</a></h2>
-                            <p class="animate fadeIn">The Student Association of Department of Information Technology.</p>
+                            <p class="animate fadeIn">The Student Association of Department of Information Technology</p>
                         </div>
-                        <div class="col-md-4 text-center">
+                        <div class="col-md-3 text-center">
+                            <a href="assets/pdf/ANNUAL_REPORT_IT_Department_2019_2020.pdf"><i class="fa-bar-chart fa-4x color-primary animate fadeIn"></i></a>
+                            <h2 class="padding-top-10 animate fadeIn"><a href="assets/pdf/ANNUAL_REPORT_IT_Department_2019_2020.pdf">Annual Report</a></h2>
+                            <p class="animate fadeIn">Refer our department's Annual Report here</p>
+                        </div>
+                        <div class="col-md-3 text-center">
                             <a href="placements/"><i class="fa-bar-chart fa-4x color-primary animate fadeIn"></i></a>
                             <h2 class="padding-top-10 animate fadeIn"><a href="placements/">Placements</a></h2>
                             <p class="animate fadeIn">Check out our placement history here.</p>
