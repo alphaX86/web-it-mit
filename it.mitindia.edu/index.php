@@ -160,7 +160,7 @@ include 'includes/tracking.php';
                             <p class="animate fadeIn">The Student Association of Department of Information Technology</p>
                         </div>
                         <div class="col-md-3 text-center">
-                            <a href="assets/pdf/ANNUAL_REPORT_IT_Department_2019_2020.pdf"><i class="fa-bar-chart fa-4x color-primary animate fadeIn"></i></a>
+                            <a href="assets/pdf/ANNUAL_REPORT_IT_Department_2019_2020.pdf"><i class="fa-university fa-4x color-primary animate fadeIn"></i></a>
                             <h2 class="padding-top-10 animate fadeIn"><a href="assets/pdf/ANNUAL_REPORT_IT_Department_2019_2020.pdf">Annual Report</a></h2>
                             <p class="animate fadeIn">Refer our department's Annual Report here</p>
                         </div>
